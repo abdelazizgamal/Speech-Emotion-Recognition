@@ -34,7 +34,7 @@ The research's primary objective is to create a real-time SER system that can pr
 
 ## Contributions
 
-@3laa3adel
+@abdelazizgamal
 @SER-Team
 
 ## Acknowledgments
